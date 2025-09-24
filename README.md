@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/12W5Sg2koWYnwA/giphy.gif" width="600" height="200" />
 
-[![Instagram Badge](https://img.shields.io/badge/instagram-anonymous_dikha-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/anonymous_dikha_official)
+[![Instagram Badge](https://img.shields.io/badge/instagram-anonymous_dikha_official-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/anonymous_dikha_official)
 [![GitHub Badge](https://img.shields.io/badge/github-pormes-%23181717?style=flat&logo=github&logoColor=white)](https://github.com/DikhaPormes)
 ![](https://komarev.com/ghpvc/?username=DikhaPormes&color=brightgreen&style=flat)
 
