@@ -5,7 +5,12 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00FF00&center=true&vCenter=true&width=800&lines=Hi+I'm+Pormes;Youtuber+%7C+Content+Creator+%7C+Learner;From+Indonesia+🇮🇩)
 
 
-[![instagram badge](https://img.shields.io/badge/instagram-anonymous_dikha-%230177B5?style=flat&logo=instagram)](https://www.instagram.com/anonymous_dikha)
+[![instagram badge](https://img.shields.io/badge/instagram-anonymous_dikha_official-%230177B5?style=flat&logo=instagram)](https://www.instagram.com/anonymous_dikha_official)
+
+- currently working on a                             : [anonymous_dikha_official][instagram]
+- currently learning everything                      : [anonymous_dikha_official][instagram]
+- follow me on my activation                         : [anonymous_dikha_official][instagram] 
+- 2020 Goals: support me on instagram                : [anonymous_dikha_official][instagram]
 
 <img src="https://media.giphy.com/media/lp3GUtG2waC88/giphy.gif" width="700" height="200" frameBorder="0" >
 
