@@ -1,6 +1,6 @@
 
 <p align="center">
- <img width="700px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
 </p>
@@ -8,7 +8,7 @@
 
 *   Compact layout
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DikhaPormes\&layout=compact)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&width=800&lines=System+Online...;Loading+Profile...;Access+Granted!)](https://git.io/typing-svg)
